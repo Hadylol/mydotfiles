@@ -6,6 +6,7 @@
 - Terminal shell : starship  
 - Menu : wofi
 - Status bar : waybar
+- font: Iosevka
 
 ## Screenshots
 nvim :
