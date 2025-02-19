@@ -8,6 +8,9 @@
 - Status bar : waybar
 
 ## Screenshots
+nvim :
+![Alt text](/screenshots/nvim2.png)
+arch linux:
 ![Alt text](/screenshots/rice2.png)
 ## Features
 - very minimal config 
